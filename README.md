@@ -8,7 +8,7 @@ Task at hand  is a research project on employees of a major corporation from the
 
 In this task, I will use postgres to create a database and design the tables to hold data in held in the CSV sheets. I will then import the CSVs into a SQL database, and answer questions about the data. In other words, I will perform:
 
-1. Data Modeling
+1. Data Modeling (also refered to as Engineering)
 
 2. Data Engineering
 
